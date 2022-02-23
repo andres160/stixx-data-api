@@ -20,7 +20,7 @@ STIX is an open standard used in the security domain for the interoperablity of 
 
 ## Start the app
 
-To test the API, install the required dependencies within requirements.txt on a virtual environment and run the following command on the terminal at the main app location:
+To test the API locally, install the required dependencies within requirements.txt on a virtual environment and run the following command on the terminal at the main app location:
 
 uvicorn main:app --reload
 
