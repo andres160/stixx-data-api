@@ -7,7 +7,9 @@ Framework used: FASTAPI
 https://fastapi.tiangolo.com/
 
 Dataset used to test: Poison Ivy Threat Intelligence Data
-More information: https://www.mandiant.com/resources/poison-ivy-assessing-damage-and-extracting-intelligence
+
+More information:
+https://www.mandiant.com/resources/poison-ivy-assessing-damage-and-extracting-intelligence
 
 
 ## Background:
